@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ColorFind-reactjs/static/css/main.2b565e8a.css",
+    "main.js": "/ColorFind-reactjs/static/js/main.382f00b6.js",
+    "static/js/787.6abe83d7.chunk.js": "/ColorFind-reactjs/static/js/787.6abe83d7.chunk.js",
+    "index.html": "/ColorFind-reactjs/index.html",
+    "main.2b565e8a.css.map": "/ColorFind-reactjs/static/css/main.2b565e8a.css.map",
+    "main.382f00b6.js.map": "/ColorFind-reactjs/static/js/main.382f00b6.js.map",
+    "787.6abe83d7.chunk.js.map": "/ColorFind-reactjs/static/js/787.6abe83d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b565e8a.css",
+    "static/js/main.382f00b6.js"
+  ]
+}
